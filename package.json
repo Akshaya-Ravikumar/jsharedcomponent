@@ -1,0 +1,38 @@
+{
+  "name": "jsharedcomponent",
+  "version": "1.0.0",
+  "description": "React shared component",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akshaya-Ravikumar/jsharedcomponent.git"
+  },
+  "keywords": [
+    "React"
+  ],
+  "author": "Akshaya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Akshaya-Ravikumar/jsharedcomponent/issues"
+  },
+  "homepage": "https://github.com/Akshaya-Ravikumar/jsharedcomponent#readme",
+  "dependencies": {
+    "react": "^15.4.1",
+    "react-dom": "^15.4.1",
+    "react-hot-loader": "^1.3.1"
+  },
+  "devDependencies": {
+    "babel": "^6.5.2",
+    "babel-core": "^6.18.2",
+    "babel-loader": "^6.2.8",
+    "babel-preset-es2015-native-modules": "^6.9.4",
+    "express": "^4.14.0",
+    "extract-text-webpack-plugin": "^2.0.0-beta.4",
+    "webpack": "^2.1.0-beta.27",
+    "webpack-dev-middleware": "^1.8.4",
+    "webpack-hot-middleware": "^2.13.2"
+  }
+}
